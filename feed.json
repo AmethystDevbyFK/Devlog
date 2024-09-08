@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AmethystDev Devlog :3",
     "description": "",
-    "home_page_url": "https://amethystdevbyfk.github.io/Devlog",
-    "feed_url": "https://amethystdevbyfk.github.io/Devlog/feed.json",
+    "home_page_url": "https://devlog.amethystdev.com",
+    "feed_url": "https://devlog.amethystdev.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "FruitKitty :3"
     },
     "items": [
         {
-            "id": "https://amethystdevbyfk.github.io/Devlog/welcome-to-my-blog.html",
-            "url": "https://amethystdevbyfk.github.io/Devlog/welcome-to-my-blog.html",
+            "id": "https://devlog.amethystdev.com/welcome-to-my-blog/",
+            "url": "https://devlog.amethystdev.com/welcome-to-my-blog/",
             "title": "AmethystDev Devlog",
             "summary": "Welcome to my Devlog that i will update around every week. I will add some update logs from my game, https://playboxrevived.amethystdev.com and others OwO :3",
             "content_html": "\n  <p>\n    Welcome to my Devlog that i will update around every week. I will add some update logs from my game, https://playboxrevived.amethystdev.com and others OwO :3\n  </p>",

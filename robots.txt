@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://amethystdevbyfk.github.io/Devlog/sitemap.xml
+Sitemap: https://devlog.amethystdev.com/sitemap.xml

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AmethystDev Devlog :3</title>
-    <link href="https://amethystdevbyfk.github.io/Devlog/feed.xml" rel="self" />
-    <link href="https://amethystdevbyfk.github.io/Devlog" />
+    <link href="https://devlog.amethystdev.com/feed.xml" rel="self" />
+    <link href="https://devlog.amethystdev.com" />
     <updated>2024-09-08T22:25:40+01:00</updated>
     <author>
         <name>FruitKitty :3</name>
     </author>
-    <id>https://amethystdevbyfk.github.io/Devlog</id>
+    <id>https://devlog.amethystdev.com</id>
 
     <entry>
         <title>AmethystDev Devlog</title>
         <author>
             <name>FruitKitty :3</name>
         </author>
-        <link href="https://amethystdevbyfk.github.io/Devlog/welcome-to-my-blog.html"/>
-        <id>https://amethystdevbyfk.github.io/Devlog/welcome-to-my-blog.html</id>
+        <link href="https://devlog.amethystdev.com/welcome-to-my-blog/"/>
+        <id>https://devlog.amethystdev.com/welcome-to-my-blog/</id>
 
         <updated>2024-09-08T22:19:01+01:00</updated>
             <summary>
