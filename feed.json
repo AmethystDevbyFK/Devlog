@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://devlog.amethystdev.com/box-revived-v03-beta-3/",
+            "url": "https://devlog.amethystdev.com/box-revived-v03-beta-3/",
+            "title": "Box Revived v0.3 Beta 3",
+            "summary": "Box Revived v0.3 Beta 3 added Powerups to the Beta! It is currently in beta, and i CERTAINLY expect atleast one bug. If there is any bugs, tell me on Discord. Code Snippet: when I start as a clone (SE) go to x: (pick random)&hellip;",
+            "content_html": "<p>Box Revived v0.3 Beta 3 added Powerups to the Beta! It is currently in beta, and i CERTAINLY expect atleast one bug. If there is any bugs, tell me on Discord.</p>\n<p>Code Snippet:</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://devlog.amethystdev.com/media/posts/2/Screenshot-2024-09-08-233229.png\" alt=\"\" width=\"367\" height=\"618\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-xs.png 640w ,https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-sm.png 768w ,https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-md.png 1024w ,https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-lg.png 1366w ,https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-xl.png 1600w ,https://devlog.amethystdev.com/media/posts/2/responsive/Screenshot-2024-09-08-233229-2xl.png 1920w\"></figure>\n<p>when I start as a clone (SE)<br>go to x: (pick random) - Picks a random X Position between -206 and 206</p>\n<p>switch costume to (pick random) - Picks random costume and switches to it</p>\n<p>Rest - Checks costume number and broadcasts the powerup according to the costume.</p>",
+            "author": {
+                "name": "FruitKitty :3"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-08T23:35:09+01:00",
+            "date_modified": "2024-09-08T23:35:09+01:00"
+        },
+        {
             "id": "https://devlog.amethystdev.com/welcome-to-my-blog/",
             "url": "https://devlog.amethystdev.com/welcome-to-my-blog/",
             "title": "AmethystDev Devlog",
